@@ -1,0 +1,34 @@
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules directory
+node_modules/
+dist
+dist-ssr
+*.local
+
+# Ignore all .env files
+*.env
+
+# Ignore virtual env
+venv/
+
+# Ignore cache files
+__pycache__
+
+# Ignore zip files
+*.zip
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+alembic/
+.ini
