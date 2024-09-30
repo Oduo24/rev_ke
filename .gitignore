@@ -31,4 +31,4 @@ __pycache__
 *.sw?
 
 alembic/
-.ini
+*.ini
